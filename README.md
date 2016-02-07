@@ -1,7 +1,9 @@
 Paco's Version of BeerSnobSays
 ============
 
-This is a fork of BeerSnobSays, a Twitter bot written by [@gjreda](https://twitter.com/gjreda). I'm running it on [@cigibot](https://twitter.com/cigibot). It's using the text of [@cigitalgem](https://twitter.com/cigitalgem)'s book *Software Security* and the text of the [BSIMM 6](https://www.bsimm.com/) report. It has produced a few fun gems.
+This is a fork of BeerSnobSays, a Twitter bot written by [@gjreda](https://twitter.com/gjreda). Follow the bot at  [@cigibot](https://twitter.com/cigibot) and follow me at [@pacohope](https://twitter.com/pacohope).
+
+It's using the text of [@cigitalgem](https://twitter.com/cigitalgem)'s book *Software Security* and the text of the [BSIMM 6](https://www.bsimm.com/) report. It has produced a few fun gems.
 
 So far, I've made a few small enhancements:
 
